@@ -153,6 +153,24 @@ Key analysis:
 
 Focuses on delivery performance and product returns.
 
+## Dashboard Preview
+
+### Page 1 — Business Overview
+
+![Business Overview](Business%20Overview.png)
+
+### Page 2 — Customer Analytics
+
+![Customer Analytics](Customer%20Analytics.png)
+
+### Page 3 — Marketing Performance
+
+![Marketing Performance](Marketing%20Performance.png)
+
+### Page 4 — Operations & Returns
+
+![Operations & Returns](Operations%20%26%20Returns.png)
+
 Key analysis:
 - Delivery SLA
 - On-time orders
